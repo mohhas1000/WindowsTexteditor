@@ -1,0 +1,10 @@
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\bin\Debug\Laboration2.exe.config
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\bin\Debug\Laboration2.exe
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\bin\Debug\Laboration2.pdb
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\obj\Debug\Laboration2.csprojAssemblyReference.cache
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\obj\Debug\Laboration2.Form1.resources
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\obj\Debug\Laboration2.Properties.Resources.resources
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\obj\Debug\Laboration2.csproj.GenerateResource.cache
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\obj\Debug\Laboration2.exe
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\obj\Debug\Laboration2.pdb
+C:\Users\M.Hayzz\source\repos\Laboration2\Laboration2\obj\Debug\Laboration2.csproj.CoreCompileInputs.cache

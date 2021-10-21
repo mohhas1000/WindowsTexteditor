@@ -1,0 +1,10 @@
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\bin\Debug\Texteditor.exe.config
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\bin\Debug\Texteditor.exe
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\bin\Debug\Texteditor.pdb
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\obj\Debug\Texteditor.csprojAssemblyReference.cache
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\obj\Debug\Texteditor.Form1.resources
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\obj\Debug\Texteditor.Properties.Resources.resources
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\obj\Debug\Texteditor.csproj.GenerateResource.cache
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\obj\Debug\Texteditor.csproj.CoreCompileInputs.cache
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\obj\Debug\Texteditor.exe
+C:\Users\M.Hayzz\gitupload\WindowsTexteditor\Texteditor\Texteditor\obj\Debug\Texteditor.pdb
