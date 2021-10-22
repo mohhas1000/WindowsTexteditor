@@ -17,4 +17,6 @@ Grundfunktionalitet som ska finnas i systemet är:
     - Spara som...(under nytt filnamn)
 - Stänga aktuell vy (kan även vara en öppnad fil)
   - Close
-
+- När en fil är öppen ska filens namn anges i fönstertiteln, ex. ”fil.txt”. Är det en ny text som ännu ej sparats ska ”dok1.txt” anges i fönstertiteln 
+- Om aktuell text i textfönstret inte är sparad(eller är ändrad sedan den öppnades)och man försökerstänga,öppna eller skapa enny fil ska användaren tillfrågas om han/hon vill spara innan den nya filen/det nya dokumentet öppnas. Möjlighet ska här finnas att svara ”ja”, ”nej” eller ”avbryt”.Är texten oförändrad ska ingenfråga komma upp. Om texten har ändrats ska detta indikeras med en asterisk (*) i fönstertiteln, ex. ”fil.txt*”. 
+### Version 2
