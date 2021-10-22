@@ -22,8 +22,8 @@ Grundfunktionalitet (version 1) som ska finnas i systemet är:
 ### Version 2
 Lägg till (förutom funktionaliteten i version 1):
 - En informationsrad (label) längst ner i fönstret som visar:
-  A. Antalet bokstäver med mellanslag. 
-  B. Antalet bokstäverutan mellanslag. 
-  C. Antalet ord. 
-  D. Antalet rader i aktuell text. Använd t.ex.
+  - Antalet bokstäver med mellanslag. 
+  - Antalet bokstäverutan mellanslag. 
+  - Antalet ord. 
+  - Antalet rader i aktuell text. Använd t.ex.
 Denna label ska uppdateras automatiskt när texten i fönstret ändras(för varje tangenttryckning eller då ny fil öppnas)
