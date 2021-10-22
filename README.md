@@ -5,7 +5,7 @@ fil genom att presentera data i textboxen, ändra och sparas om på nytt. Därti
 
 ## Kravspecifikation
 Grundfunktionalitet (version 1) som ska finnas i systemet är:
-- Skrivatext i textfönster
+- Skriva text i textfönster
 - Skapa en ny skrivyta o
   - Ny... 
 - Spara texten i fönstret till fil 
@@ -17,8 +17,8 @@ Grundfunktionalitet (version 1) som ska finnas i systemet är:
     - Spara som...(under nytt filnamn)
 - Stänga aktuell vy (kan även vara en öppnad fil)
   - Close
-- När en fil är öppen ska filens namn anges i fönstertiteln, ex. ”fil.txt”. Är det en ny text som ännu ej sparats ska ”dok1.txt” anges i fönstertiteln 
-- Om aktuell text i textfönstret inte är sparad(eller är ändrad sedan den öppnades)och man försökerstänga,öppna eller skapa enny fil ska användaren tillfrågas om han/hon vill spara innan den nya filen/det nya dokumentet öppnas. Möjlighet ska här finnas att svara ”ja”, ”nej” eller ”avbryt”.Är texten oförändrad ska ingenfråga komma upp. Om texten har ändrats ska detta indikeras med en asterisk (*) i fönstertiteln, ex. ”fil.txt*”. 
+- När en fil är öppen ska filens namn anges i fönstertiteln, ex. ”fil.txt”. Är det en ny text som ännu ej sparats ska ”dok1.txt” anges i fönstertiteln. 
+- Om aktuell text i textfönstret inte är sparad (eller är ändrad sedan den öppnades) och man försöker stänga,öppna eller skapa en ny fil ska användaren tillfrågas om han/hon vill spara innan den nya filen/det nya dokumentet öppnas. Möjlighet ska här finnas att svara ”ja”, ”nej” eller ”avbryt”. Är texten oförändrad ska ingenfråga komma upp. Om texten har ändrats ska detta indikeras med en asterisk (*) i fönstertiteln, ex. ”fil.txt*”. 
 ### Version 2
 Lägg till (förutom funktionaliteten i version 1):
 - En informationsrad (label) längst ner i fönstret som visar:
@@ -26,7 +26,7 @@ Lägg till (förutom funktionaliteten i version 1):
   - Antalet bokstäverutan mellanslag. 
   - Antalet ord. 
   - Antalet rader i aktuell text. Använd t.ex.
-Denna label ska uppdateras automatiskt när texten i fönstret ändras(för varje tangenttryckning eller då ny fil öppnas)
+Denna label ska uppdateras automatiskt när texten i fönstret ändras (för varje tangenttryckning eller då ny fil öppnas)
 ### Version 3
 Lägg,förutom tilläggen för version 2,till:
 - Funktionalitet för att kunna dra in en fil i fönstret som då öppnas (”drag and drop”). OBS Filen ska droppasin i fönstret, ej på listen. När detta sker och en fil redan finns öppeni fönstretska: 
