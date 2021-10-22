@@ -13,8 +13,8 @@ Grundfunktionalitet som ska finnas i systemet är:
   - Väljer användaren ”Spara” för ett tidigare osparat dokument ska programmet välja ”Spara som...” automatiskt. 
 - Öppna befintlig fil 
   - Modifiera denna fil 
-    -Spara (under aktuellt filnamn) 
-    -Spara som...(under nytt filnamn)
--Stänga aktuell vy (kan även vara en öppnad fil)
+    - Spara (under aktuellt filnamn) 
+    - Spara som...(under nytt filnamn)
+- Stänga aktuell vy (kan även vara en öppnad fil)
   - Close
 
