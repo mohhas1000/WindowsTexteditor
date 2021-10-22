@@ -4,7 +4,7 @@ text i, och beroende på användarens behov så ska möjligheten finnas till att
 fil genom att presentera data i textboxen, ändra och sparas om på nytt. Därtill kan användaren stänga textfönstret och nollställa textboxen som inträffar när användaren vill skapa ett nytt textfält. Namnet på filen anges i fönstertiteln, och om ingen fil har öppnats samt att en ny text ej har sparats, då ska ”Dok1.txt” anges i fönstertiteln. Med systemet kan användaren tillfrågas om den aktuella texten i fönstret ska sparas när man försöker stänga, öppna eller skapa en ny fil. Det medför de möjliga åtgärderna; ”ja”, ”nej” eller "avbryt", där detta ska endast dyka upp om texten har förändrats. Dessutom består systemet av en informationsrad som ständigt kalkylerar antal ord, rader, bokstäver med mellanslag och bokstäver utan mellanslag som förekommer i textboxen. Det finns även ytterligare funktionaliteter som låter användaren dra in en fil i fönstret, och beroende på vad för kontrolltangent som hålls nedtryckt, kan olika händelse inträffa. 
 
 ## Kravspecifikation
-Grundfunktionalitet som ska finnas i systemet är:
+Grundfunktionalitet (version 1) som ska finnas i systemet är:
 - Skrivatext i textfönster
 - Skapa en ny skrivyta o
   - Ny... 
@@ -20,3 +20,10 @@ Grundfunktionalitet som ska finnas i systemet är:
 - När en fil är öppen ska filens namn anges i fönstertiteln, ex. ”fil.txt”. Är det en ny text som ännu ej sparats ska ”dok1.txt” anges i fönstertiteln 
 - Om aktuell text i textfönstret inte är sparad(eller är ändrad sedan den öppnades)och man försökerstänga,öppna eller skapa enny fil ska användaren tillfrågas om han/hon vill spara innan den nya filen/det nya dokumentet öppnas. Möjlighet ska här finnas att svara ”ja”, ”nej” eller ”avbryt”.Är texten oförändrad ska ingenfråga komma upp. Om texten har ändrats ska detta indikeras med en asterisk (*) i fönstertiteln, ex. ”fil.txt*”. 
 ### Version 2
+Lägg till (förutom funktionaliteten i version 1):
+- En informationsrad (label) längst ner i fönstret som visar:
+  A. Antalet bokstäver med mellanslag. 
+  B. Antalet bokstäverutan mellanslag. 
+  C. Antalet ord. 
+  D. Antalet rader i aktuell text. Använd t.ex.
+Denna label ska uppdateras automatiskt när texten i fönstret ändras(för varje tangenttryckning eller då ny fil öppnas)
