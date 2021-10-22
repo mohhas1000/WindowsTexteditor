@@ -27,3 +27,9 @@ Lägg till (förutom funktionaliteten i version 1):
   - Antalet ord. 
   - Antalet rader i aktuell text. Använd t.ex.
 Denna label ska uppdateras automatiskt när texten i fönstret ändras(för varje tangenttryckning eller då ny fil öppnas)
+### Version 3
+Lägg,förutom tilläggen för version 2,till:
+- Funktionalitet för att kunna dra in en fil i fönstret som då öppnas (”drag and drop”). OBS Filen ska droppasin i fönstret, ej på listen. När detta sker och en fil redan finns öppeni fönstretska: 
+  - Om ”ctrl” hålls nedtryckt då filendras in och släpps på textfönstret, lägga till innehållet i den indragna filen sist i aktuell text.
+  - Om ”shift” hålls nedtryckt då filen dras in och släpps på textfönstret, lägga till innehållet i den indragna filen vid markörens plats i aktuell text. 
+  - Om ingen tangent hålls nedtryckt: Stänga och eventuellt spara (till befintlig fil om den är ändrad) aktuell text via dialogruta innan den nya filen öppnas. Möjligheten ska här också finnas att avbryta öppnandet av den nya filen.
