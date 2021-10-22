@@ -35,4 +35,4 @@ Lägg,förutom tilläggen för version 2,till:
   - Om ingen tangent hålls nedtryckt: Stänga och eventuellt spara (till befintlig fil om den är ändrad) aktuell text via dialogruta innan den nya filen öppnas. Möjligheten ska här också finnas att avbryta öppnandet av den nya filen.
 - Funktionalitet för att applikationen stängs medkrysset (”X”) längst upp till höger i din applikation. Användaren ska då tillfrågas om han/hon vill spara aktuell fil (”spara” eller ”spara som...” beroende på om filen finns eller ej*). Denna frågaska inte komma upp om användaren har öppnat en fil och texten i fönstret sedan inte ändratseller om textfönstret är tomt.\
 
-Om en befintlig fil är öppen och texten ifönstrethar ändratsska användaren tillfrågas om ifall texten ska sparas till aktuell fil(”spara”), annars ”spara som”.
+Om en befintlig fil är öppen och texten i fönstret har ändrats ska användaren tillfrågas om ifall texten ska sparas till aktuell fil (”spara”), annars ”spara som”.
